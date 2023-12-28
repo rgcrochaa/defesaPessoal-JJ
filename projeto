@@ -1,0 +1,59 @@
+Curso Básico Jiu Jitsu - Defesa Pessoal
+
+Introdução a Defesa Pessoal / Jiu Jitsu {
+	Posições{
+		Defesa{
+			100kg
+			Domínio de Quadril
+			Fuga de Quadril
+			Fuga de Quadril Sentada
+			Guarda Fechada
+			Passagem de Guarda
+			Montada
+			Clinch 
+			Cinturada
+			Quedas
+			Levantada Técnica
+			Sprawl
+			Pegada Costas
+		}
+	}	
+	Finalizações{
+		Kimura Guarda
+		Kimura Montado
+		Armlock Guarda
+		Armlock Montada
+		Triangulo
+		Mata Leão
+	}
+	Aquecimentos{
+		Passagens Guarda Toreando
+		Passagens Guarda Mão Cintura e Perna
+		Passagem Guarda Mão Cruzada
+		Reposição Guarda
+		Sprawl
+		Levantada Técnica
+		Finalizações
+		Passagem+Montada
+		Fugas de Quadril Sentada
+		Fugas de Quadril
+		//%Combinação 
+	}
+	História JJ{
+		Brazilian JJ
+		Grandes Mestres
+		Lutas
+		Brigas
+		Campeões Mundiais JJ
+		Atletas MMA
+	}
+	Formato/Modelo/Template Aula{
+		História JJ:		5m
+		Aquecimentos:		10m
+		Posição:			5m
+		Drill Posição:		10m
+		Finalização:		10m
+		Específico Posição:	10m
+		Rola/Minirola:		10m
+	}	
+}
